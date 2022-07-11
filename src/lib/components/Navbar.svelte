@@ -7,7 +7,7 @@
 	];
 </script>
 
-<nav class="w-full bg-gray-800 p-5 flex text-white font-semibold">
+<nav class="w-full bg-slate-900 p-5 flex text-white font-semibold">
 	<div class="mr-auto"><h1 class="text-2xl">TodoList</h1></div>
 	<div class="ml-auto">
 		<ul class="flex space-x-5">

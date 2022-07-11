@@ -1,6 +1,6 @@
 <script context="module" lang="ts">
 	/** @type {import('@sveltejs/kit').Load} */
-	import type { loadError, propsError } from '../interfaces/loadError';
+	import type { loadError, propsError } from '../lib/interfaces/loadError';
 	export function load({ error, status }: loadError) {
 		return {
 			props: {
